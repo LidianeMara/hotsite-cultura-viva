@@ -167,8 +167,12 @@ textarea.form-control {
   width: 100%;
 }
 
+.site-header .site-logo img {
+  max-width: 45px;
+  height: auto;
+}
 .site-header .site-logo {
-  line-height: 0;
+   line-height: 0;
   padding: 2px 10px;
   border: 2px solid white;
   color: white;
@@ -217,7 +221,7 @@ textarea.form-control {
   padding: 2px 10px;
   border: 2px solid #000;
   color: #fff;
-  background: #000;
+  background: #fff;
   font-size: 30px;
 }
 
