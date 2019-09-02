@@ -1831,15 +1831,20 @@ textarea.form-control {
 	display: block;
 	border-radius: 50%;
 }
-.carousel .testimonial {
+.carousel .testimonial{
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 20px;
 	padding: 30px 0 10px;
 }
 .carousel .overview {	
+  font-family: "Source Sans Pro", sans-serif;
+font-size: 20px;
 	font-style: italic;
 }
 .carousel .overview b {
+  font-family:"Gobold Bold Italic Italic", sans-serif;
 	text-transform: uppercase;
-	color: #7AA641;
+	color: #000;
 }
 .carousel .carousel-control {
 	width: 40px;
