@@ -6527,7 +6527,7 @@ button.close {
 	-ms-flex-pack: center;
 	justify-content: center;
 	width: 15%;
-	color: #fff;
+	color: #ff5029;;
 	text-align: center;
 	opacity: 0.5
 }
@@ -6536,7 +6536,7 @@ button.close {
 .carousel-control-next:hover,
 .carousel-control-prev:focus,
 .carousel-control-prev:hover {
-	color: #fff;
+	color: #ff5029;
 	text-decoration: none;
 	outline: 0;
 	opacity: .9
